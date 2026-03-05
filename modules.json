@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "meta9_1",
+    "module_label": "META.9.1 - Algorithm Documentation Logging",
+    "module_title": "Algorithm Documentation Logging",
+    "module_slug": "algorithm_documentation_logging",
+    "app_code": "meta9",
+    "app_label": "META 9 - Algorithm Accountability Framework",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta9_3",
+    "module_label": "META.9.3 - Audit & Compliance Reporting",
+    "module_title": "Audit & Compliance Reporting",
+    "module_slug": "audit_and_compliance_reporting",
+    "app_code": "meta9",
+    "app_label": "META 9 - Algorithm Accountability Framework",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  },
+  {
+    "module_code": "meta9_2",
+    "module_label": "META.9.2 - Performance & Bias Monitoring",
+    "module_title": "Performance & Bias Monitoring",
+    "module_slug": "performance_and_bias_monitoring",
+    "app_code": "meta9",
+    "app_label": "META 9 - Algorithm Accountability Framework",
+    "bundle_code": "meta",
+    "source_md_path": "doc/rnd/plugs/meta/meta1.md"
+  }
+]
